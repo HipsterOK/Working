@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One circle,Two circle</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_preload">PreloadActivity</string>
+    <string name="browser">https://google.com</string>
+</resources>

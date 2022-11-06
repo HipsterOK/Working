@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Economy Quiz</string>
+    <string name="title_activity_preloader">PreloaderActivity</string>
+    <string name="title_activity_menu2">MenuActivity2</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="site">https://google.com</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>

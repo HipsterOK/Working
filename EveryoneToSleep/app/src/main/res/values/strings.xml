@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Everyone To Sleep!</string>
+    <string name="title_activity_preload">PreloadActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="url">https://google.com</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>

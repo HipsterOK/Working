@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Catch A Fish</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="title_activity_main">MainCtivity</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aztec Tic-Tac</string>
+    <string name="title_activity_preload">PreloadActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="site">https://google.com</string>
+</resources>

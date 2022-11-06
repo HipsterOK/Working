@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Woodcutter Clicker</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_win">WinActivity</string>
+</resources>

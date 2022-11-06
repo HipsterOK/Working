@@ -1,0 +1,50 @@
+package ru.porcupine.findthesmiley
+
+class SmileyAdapter {
+    fun fillSmiley(): MutableList<SmileyModel> {
+        var smileyList = mutableListOf<SmileyModel>()
+
+        smileyList.add(SmileyModel(0,R.drawable.smile_1))
+        smileyList.add(SmileyModel(1,R.drawable.smile_2))
+        smileyList.add(SmileyModel(2,R.drawable.smile_3))
+        smileyList.add(SmileyModel(3,R.drawable.smile_4))
+        smileyList.add(SmileyModel(4,R.drawable.smile_5))
+        smileyList.add(SmileyModel(5,R.drawable.smile_6))
+        smileyList.add(SmileyModel(6,R.drawable.smile_7))
+        smileyList.add(SmileyModel(7,R.drawable.smile_8))
+        smileyList.add(SmileyModel(8,R.drawable.smile_9))
+        smileyList.add(SmileyModel(9,R.drawable.smile_10))
+        smileyList.add(SmileyModel(10,R.drawable.smile_11))
+        smileyList.add(SmileyModel(11,R.drawable.smile_12))
+        smileyList.add(SmileyModel(12,R.drawable.smile_13))
+        smileyList.add(SmileyModel(13,R.drawable.smile_14))
+        smileyList.add(SmileyModel(14,R.drawable.smile_15))
+        smileyList.add(SmileyModel(15,R.drawable.smile_16))
+        smileyList.add(SmileyModel(16,R.drawable.smile_17))
+        smileyList.add(SmileyModel(17,R.drawable.smile_18))
+        smileyList.add(SmileyModel(18,R.drawable.smile_19))
+        smileyList.add(SmileyModel(19,R.drawable.smile_20))
+        smileyList.add(SmileyModel(20,R.drawable.smile_21))
+        smileyList.add(SmileyModel(21,R.drawable.smile_22))
+        smileyList.add(SmileyModel(22,R.drawable.smile_23))
+        smileyList.add(SmileyModel(23,R.drawable.smile_24))
+        smileyList.add(SmileyModel(24,R.drawable.smile_25))
+        smileyList.add(SmileyModel(25,R.drawable.smile_26))
+        smileyList.add(SmileyModel(26,R.drawable.smile_27))
+        smileyList.add(SmileyModel(27,R.drawable.smile_28))
+        smileyList.add(SmileyModel(28,R.drawable.smile_29))
+        smileyList.add(SmileyModel(29,R.drawable.smile_30))
+        smileyList.add(SmileyModel(30,R.drawable.smile_31))
+        smileyList.add(SmileyModel(31,R.drawable.smile_32))
+        smileyList.add(SmileyModel(32,R.drawable.smile_33))
+        smileyList.add(SmileyModel(33,R.drawable.smile_34))
+        smileyList.add(SmileyModel(34,R.drawable.smile_35))
+        smileyList.add(SmileyModel(35,R.drawable.smile_36))
+        smileyList.add(SmileyModel(36,R.drawable.smile_37))
+        smileyList.add(SmileyModel(37,R.drawable.smile_38))
+        smileyList.add(SmileyModel(38,R.drawable.smile_39))
+        smileyList.add(SmileyModel(39,R.drawable.smile_40))
+
+return  smileyList
+    }
+}

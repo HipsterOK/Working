@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza Delivery Guy</string>
+    <string name="title_activity_main_menu_ativity">MainMenuAtivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>

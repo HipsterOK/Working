@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build A Pedestal</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_preloader">PreloaderActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="url">https://google.com</string>
+</resources>

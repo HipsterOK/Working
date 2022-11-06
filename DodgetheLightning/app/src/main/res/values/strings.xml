@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dodge the Lightning</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="url">https://google.com/</string>
+</resources>

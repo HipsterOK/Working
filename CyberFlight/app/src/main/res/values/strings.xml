@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cyber Flight</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_preloader">PreloaderActivity</string>
+    <string name="privacy_url">https://google.com</string>
+</resources>
